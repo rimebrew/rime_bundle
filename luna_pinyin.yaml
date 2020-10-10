@@ -1,0 +1,30 @@
+# The very first YAML file
+
+# Pkg's meta info
+repository:
+  url: https://github.com/rime/rime-luna-pinyin
+  url_to_file: /archive/master.zip
+
+  # 总名称
+  name: luna_pinyin
+  alternative_name: 朙月拼音
+
+  # 字典文件, 大部分項目只提供一個
+  dict:
+    - luna_pinyin
+
+  # 一些输入法会提供好几种选项
+  provides:
+    - luna_pinyin
+    - luna_pinyin_simp
+
+# 一下是是每個方案的具體內容
+
+luna_pinyin:
+  files:
+    - luna_pinyin.schema.yaml
+    
+luna_pinyin_simp:
+  files:
+    - luna_pinyin_simp.schema.yaml
+
