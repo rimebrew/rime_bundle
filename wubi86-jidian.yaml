@@ -17,12 +17,12 @@ repository:
 
 # 一下是是每個方案的具體內容
 provides:
-  - name: wubi_jidian
+  wubi_jidian:
     display_name: 五笔极点
     files:
       - wubi86_jidian.schema.yaml 
     
-  - name: wubi86_jidian_trad
+  wubi86_jidian_trad:
     display_name: 五笔极点-繁體中文
     files:
      - wubi86_jidian_trad.schema.yaml
