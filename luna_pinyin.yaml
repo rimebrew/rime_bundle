@@ -13,20 +13,16 @@ repository:
   dict:
     - luna_pinyin
 
-  # 一些输入法会提供好几种选项
-  provides:
-    - luna_pinyin
-    - luna_pinyin_simp
 
 # 一下是是每個方案的具體內容
-
-luna_pinyin:
-  display_name: 朙月拼音-默認
-  files:
-    - luna_pinyin.schema.yaml
+provides:
+  -luna_pinyin:
+    display_name: 朙月拼音-默認
+    files:
+      - luna_pinyin.schema.yaml
     
-luna_pinyin_simp:
-  display_name: 朙月拼音-簡體
-  files:
-    - luna_pinyin_simp.schema.yaml
+  -luna_pinyin_simp:
+    display_name: 朙月拼音-簡體
+    files:
+      - luna_pinyin_simp.schema.yaml
 
