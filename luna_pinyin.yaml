@@ -7,7 +7,7 @@ repository:
 
   # 总名称
   name: luna_pinyin
-  alternative_name: 朙月拼音
+  display_name: 朙月拼音
 
   # 字典文件, 大部分項目只提供一個
   dict:
@@ -21,10 +21,12 @@ repository:
 # 一下是是每個方案的具體內容
 
 luna_pinyin:
+  display_name: 朙月拼音-默認
   files:
     - luna_pinyin.schema.yaml
     
 luna_pinyin_simp:
+  display_name: 朙月拼音-簡體
   files:
     - luna_pinyin_simp.schema.yaml
 
