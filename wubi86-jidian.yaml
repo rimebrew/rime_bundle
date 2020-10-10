@@ -7,7 +7,7 @@ repository:
 
   # 总名称
   name: wubi86-jidian
-  alternative_name: 五笔极点
+  display_nam: 五笔极点
 
   # 字典文件, 大部分項目只提供一個
   dict:
@@ -23,10 +23,11 @@ repository:
 # 一下是是每個方案的具體內容
 
 wubi86_jidian:
+  display_name: 五笔极点
   files:
     - wubi86_jidian.schema.yaml 
     
-wubi86_jidian_trad:
+wubi86_jidian_trad: 五笔极点-繁體中文
   files:
     - wubi86_jidian_trad.schema.yaml
 
