@@ -1,0 +1,32 @@
+# The very first YAML file
+
+# Pkg's meta info
+repository:
+  url: https://github.com/KyleBing/rime-wubi86-jidian
+  url_to_file: /archive/master.zip
+
+  # 总名称
+  name: wubi86-jidian
+  alternative_name: 五笔极点
+
+  # 字典文件, 大部分項目只提供一個
+  dict:
+    - wubi86_jidian.dict.yaml
+    - wubi86_jidian_addition.dict.yaml
+    - wubi86_jidian_extra.dict.yaml 
+
+  # 一些输入法会提供好几种选项
+  provides:
+    - wubi86_jidian
+    - wubi86_jidian_trad
+
+# 一下是是每個方案的具體內容
+
+wubi86_jidian:
+  files:
+    - wubi86_jidian.schema.yaml 
+    
+wubi86_jidian_trad:
+  files:
+    - wubi86_jidian_trad.schema.yaml
+
