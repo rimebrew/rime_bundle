@@ -27,7 +27,8 @@ wubi86_jidian:
   files:
     - wubi86_jidian.schema.yaml 
     
-wubi86_jidian_trad: 五笔极点-繁體中文
+wubi86_jidian_trad: 
+  display_name: 五笔极点-繁體中文
   files:
     - wubi86_jidian_trad.schema.yaml
 
