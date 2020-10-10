@@ -15,22 +15,15 @@ repository:
     - wubi86_jidian_addition.dict.yaml
     - wubi86_jidian_extra.dict.yaml 
 
-  # 一些输入法会提供好几种选项
-  provides:
-    - wubi86_jidian
-    - wubi86_jidian_trad
-
 # 一下是是每個方案的具體內容
 provides:
-  - 
-    name: wubi_jidian
+  - name: wubi_jidian
     display_name: 五笔极点
     files:
       - wubi86_jidian.schema.yaml 
     
- - 
-  neme: wubi86_jidian_trad
-  display_name: 五笔极点-繁體中文
-  files:
-    - wubi86_jidian_trad.schema.yaml
+  - name: wubi86_jidian_trad
+    display_name: 五笔极点-繁體中文
+    files:
+     - wubi86_jidian_trad.schema.yaml
 
