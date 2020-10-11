@@ -6,7 +6,7 @@ repository:
   url_to_file: /archive/master.zip
 
   # 总名称
-  name: luna_pinyin
+  id: luna_pinyin #-> The one true name!
   display_name: 朙月拼音
 
   # 字典文件, 大部分項目只提供一個
