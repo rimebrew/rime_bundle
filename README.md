@@ -1,12 +1,6 @@
 # rime_schemas
 
-Experimental repo,
-
-Notes:
-
-Like all the open source pkg manages, the users have get a whole copy of packages
-
-Api to get the leastest release:
+目前已集成：https://github.com/biopolyhedron/rime_schemata
 
 curl  "https://api.github.com/repos/slbtty/rime_schemas/releases/latest"
 

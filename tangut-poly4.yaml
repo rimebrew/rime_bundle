@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-tangut-poly4
+  url_to_file: /archive/master.zip
+  
+  id: tangut-poly4
+  display_name: 西夏文【Poly四角】
+  
+  dict:
+    - tangut-poly4.dict.yaml
+
+
+provides:
+  tangut-poly4:
+    display_name: 西夏文【Poly四角】
+    files:
+      - tangut-poly4.schema.yaml

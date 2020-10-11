@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-manju-alikali
+  url_to_file: /archive/master.zip
+  
+  id: manju-alikali
+  display_name: 滿語阿禮嘎禮轉寫輸入
+  
+  dict:
+    - manju-alikali.dict.yaml
+
+
+provides:
+  manju-alikali:
+    display_name: 滿語阿禮嘎禮轉寫輸入
+    files:
+      - manju-alikali.schema.yaml

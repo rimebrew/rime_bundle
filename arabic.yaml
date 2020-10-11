@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-arabic
+  url_to_file: /archive/master.zip
+  
+  id: arabic
+  display_name: 阿拉伯字母國際鍵盤
+  
+  dict:
+    - arabic.dict.yaml
+
+
+provides:
+  arabic:
+    display_name: 阿拉伯字母國際鍵盤
+    files:
+      - arabic.schema.yaml

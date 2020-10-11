@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-syriac
+  url_to_file: /archive/master.zip
+  
+  id: syriac
+  display_name: 敘利亞字母
+  
+  dict:
+    - syriac.dict.yaml
+
+
+provides:
+  syriac:
+    display_name: 敘利亞字母
+    files:
+      - syriac.schema.yaml

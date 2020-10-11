@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-zhuyin
+  url_to_file: /archive/master.zip
+  
+  id: zhuyin
+  display_name: 漢語注音字母
+  
+  dict:
+    - zhuyin.dict.yaml
+
+
+provides:
+  zhuyin:
+    display_name: 漢語注音字母
+    files:
+      - zhuyin.schema.yaml

@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-middle-chinese
+  url_to_file: /archive/master.zip
+  
+  id: middle-chinese
+  display_name: 中古漢語（切韻音系）全拼及三拼
+  
+  dict:
+    - middle-chinese.dict.yaml
+
+
+provides:
+  middle-chinese:
+    display_name: 中古漢語（切韻音系）全拼及三拼
+    files:
+      - middle-chinese.schema.yaml

@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-thai-stupid
+  url_to_file: /archive/master.zip
+  
+  id: thai-stupid
+  display_name: 泰文（笨）
+  
+  dict:
+    - thai-stupid.dict.yaml
+
+
+provides:
+  thai-stupid:
+    display_name: 泰文（笨）
+    files:
+      - thai-stupid.schema.yaml

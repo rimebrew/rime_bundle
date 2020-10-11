@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-devanagari
+  url_to_file: /archive/master.zip
+  
+  id: devanagari
+  display_name: 天城體梵文
+  
+  dict:
+    - devanagari.dict.yaml
+
+
+provides:
+  devanagari:
+    display_name: 天城體梵文
+    files:
+      - devanagari.schema.yaml

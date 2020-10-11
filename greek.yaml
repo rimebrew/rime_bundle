@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-greek
+  url_to_file: /archive/master.zip
+  
+  id: greek
+  display_name: 希臘文
+  
+  dict:
+    - greek.dict.yaml
+
+
+provides:
+  greek:
+    display_name: 希臘文
+    files:
+      - greek.schema.yaml

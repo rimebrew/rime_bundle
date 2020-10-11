@@ -1,0 +1,17 @@
+
+repository:
+  url: https://github.com/biopolyhedron/rime-burmese
+  url_to_file: /archive/master.zip
+  
+  id: burmese
+  display_name: 緬甸文
+  
+  dict:
+    - burmese.dict.yaml
+
+
+provides:
+  burmese:
+    display_name: 緬甸文
+    files:
+      - burmese.schema.yaml
