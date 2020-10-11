@@ -6,7 +6,7 @@ repository:
   url_to_file: /archive/master.zip
 
   # 总名称
-  name: wubi86-jidian
+  id: wubi86-jidian
   display_nam: 五笔极点
 
   # 字典文件, 大部分項目只提供一個
