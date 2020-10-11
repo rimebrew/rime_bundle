@@ -11,7 +11,8 @@ curl  "https://api.github.com/repos/slbtty/rime_schemas/releases/latest"
 
 
 
-YAML 里面 XSLT (Extensible Stylesheet Language Transformations) 的等价物。
+YAML 里面 XSLT (Extensible Stylesheet Language Transformations) 的等价物。 
+https://github.com/yaml/yaml-spec/wiki/The-Transformations-Extension
 
 Ref:
 
