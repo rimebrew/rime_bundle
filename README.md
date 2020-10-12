@@ -10,7 +10,7 @@ Bundles -> 集中仓库只包含对各个 repo 的描述文件，很多输入法
 
 :arrow_down:
 
-Schemas -> 用户的客户端从这里拿到 bundles，由客户端解析，然后按照描述从目标仓库下载到本地。解 bundle 后变成 schemas.
+Schemas -> 用户的客户端从这里拿到 bundles，由客户端解析，然后按照描述从目标仓库下载到本地。解 bundle 后变成 schemas 就可以随便安装了。
 
 
 ## 计划
