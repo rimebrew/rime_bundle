@@ -4,9 +4,13 @@
 ## 分发模式
 
 Repo -> 输入法作者自己的仓库，我们不做任何修改，不添加任何包管理的内容
+
 :arrow_down:
+
 Bundles -> 集中仓库只包含对各个 repo 的描述文件，很多输入法都有好集中 schemas 集合起来叫 bundle，存放这里。
+
 :arrow_down:
+
 Schemas -> 用户的客户端从这里拿到 bundles，由客户端解析，然后按照描述从目标仓库下载到本地。解 bundle 后变成 schemas.
 
 ## 计划
