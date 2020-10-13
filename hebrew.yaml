@@ -4,11 +4,14 @@ id: hebrew
 display_name: 希伯來語轉寫輸入
 url: https://github.com/biopolyhedron/rime-hebrew
 url_to_file: /archive/master.zip
+
+provides:
+  hebrew:
+    type: basic
+    display_name: 希伯來語轉寫輸入
+    files:
+      - hebrew.dict.yaml
+      - hebrew.schema.yaml
+
 ---
-hebrew:
-  type: basic
-  display_name: 希伯來語轉寫輸入
-  files:
-    - hebrew.dict.yaml
-    - hebrew.schema.yaml
 

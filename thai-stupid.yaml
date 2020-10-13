@@ -4,11 +4,14 @@ id: thai-stupid
 display_name: 泰文（笨）
 url: https://github.com/biopolyhedron/rime-thai-stupid
 url_to_file: /archive/master.zip
+
+provides:
+  thai-stupid:
+    type: basic
+    display_name: 泰文（笨）
+    files:
+      - thai-stupid.dict.yaml
+      - thai-stupid.schema.yaml
+
 ---
-thai-stupid:
-  type: basic
-  display_name: 泰文（笨）
-  files:
-    - thai-stupid.dict.yaml
-    - thai-stupid.schema.yaml
 

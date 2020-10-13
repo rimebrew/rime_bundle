@@ -4,11 +4,14 @@ id: arabic
 display_name: 阿拉伯字母國際鍵盤
 url: https://github.com/biopolyhedron/rime-arabic
 url_to_file: /archive/master.zip
+
+provides:
+  arabic:
+    type: basic
+    display_name: 阿拉伯字母國際鍵盤
+    files:
+      - arabic.dict.yaml
+      - arabic.schema.yaml
+
 ---
-arabic:
-  type: basic
-  display_name: 阿拉伯字母國際鍵盤
-  files:
-    - arabic.dict.yaml
-    - arabic.schema.yaml
 

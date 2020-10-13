@@ -4,11 +4,14 @@ id: greek
 display_name: 希臘文
 url: https://github.com/biopolyhedron/rime-greek
 url_to_file: /archive/master.zip
+
+provides:
+  greek:
+    type: basic
+    display_name: 希臘文
+    files:
+      - greek.dict.yaml
+      - greek.schema.yaml
+
 ---
-greek:
-  type: basic
-  display_name: 希臘文
-  files:
-    - greek.dict.yaml
-    - greek.schema.yaml
 

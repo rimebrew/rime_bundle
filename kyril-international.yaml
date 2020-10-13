@@ -4,11 +4,14 @@ id: kyril-international
 display_name: 基利爾字母混合輸入
 url: https://github.com/biopolyhedron/rime-kyril-international
 url_to_file: /archive/master.zip
+
+provides:
+  kyril-international:
+    type: basic
+    display_name: 基利爾字母混合輸入
+    files:
+      - kyril-international.dict.yaml
+      - kyril-international.schema.yaml
+
 ---
-kyril-international:
-  type: basic
-  display_name: 基利爾字母混合輸入
-  files:
-    - kyril-international.dict.yaml
-    - kyril-international.schema.yaml
 

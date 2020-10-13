@@ -4,11 +4,14 @@ id: jap-poly
 display_name: poly日文
 url: https://github.com/biopolyhedron/rime-jap-poly
 url_to_file: /archive/master.zip
+
+provides:
+  jap-poly:
+    type: basic
+    display_name: poly日文
+    files:
+      - jap-poly.dict.yaml
+      - jap-poly.schema.yaml
+
 ---
-jap-poly:
-  type: basic
-  display_name: poly日文
-  files:
-    - jap-poly.dict.yaml
-    - jap-poly.schema.yaml
 

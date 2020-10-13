@@ -4,11 +4,14 @@ id: tibetan
 display_name: 藏文
 url: https://github.com/biopolyhedron/rime-tibetan
 url_to_file: /archive/master.zip
+
+provides:
+  tibetan:
+    type: basic
+    display_name: 藏文
+    files:
+      - tibetan.dict.yaml
+      - tibetan.schema.yaml
+
 ---
-tibetan:
-  type: basic
-  display_name: 藏文
-  files:
-    - tibetan.dict.yaml
-    - tibetan.schema.yaml
 
