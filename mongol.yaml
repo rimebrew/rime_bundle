@@ -1,17 +1,14 @@
 
-repository:
-  url: https://github.com/biopolyhedron/rime-mongol
-  url_to_file: /archive/master.zip
-  
-  id: mongol
+---
+id: mongol
+display_name: 蒙古文
+url: https://github.com/biopolyhedron/rime-mongol
+url_to_file: /archive/master.zip
+---
+mongol:
+  type: basic
   display_name: 蒙古文
-  
-  dict:
+  files:
     - mongol.dict.yaml
+    - mongol.schema.yaml
 
-
-provides:
-  mongol:
-    display_name: 蒙古文
-    files:
-      - mongol.schema.yaml

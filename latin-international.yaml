@@ -1,17 +1,14 @@
 
-repository:
-  url: https://github.com/biopolyhedron/rime-latin-international
-  url_to_file: /archive/master.zip
-  
-  id: latin-international
+---
+id: latin-international
+display_name: 拉丁字母混合輸入
+url: https://github.com/biopolyhedron/rime-latin-international
+url_to_file: /archive/master.zip
+---
+latin-international:
+  type: basic
   display_name: 拉丁字母混合輸入
-  
-  dict:
+  files:
     - latin-international.dict.yaml
+    - latin-international.schema.yaml
 
-
-provides:
-  latin-international:
-    display_name: 拉丁字母混合輸入
-    files:
-      - latin-international.schema.yaml

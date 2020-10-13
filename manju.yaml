@@ -1,17 +1,14 @@
 
-repository:
-  url: https://github.com/biopolyhedron/rime-manju
-  url_to_file: /archive/master.zip
-  
-  id: manju
+---
+id: manju
+display_name: 滿語轉寫輸入
+url: https://github.com/biopolyhedron/rime-manju
+url_to_file: /archive/master.zip
+---
+manju:
+  type: basic
   display_name: 滿語轉寫輸入
-  
-  dict:
+  files:
     - manju.dict.yaml
+    - manju.schema.yaml
 
-
-provides:
-  manju:
-    display_name: 滿語轉寫輸入
-    files:
-      - manju.schema.yaml

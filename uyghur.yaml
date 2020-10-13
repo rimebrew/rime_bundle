@@ -1,17 +1,14 @@
 
-repository:
-  url: https://github.com/biopolyhedron/rime-uyghur
-  url_to_file: /archive/master.zip
-  
-  id: uyghur
+---
+id: uyghur
+display_name: 維吾爾語
+url: https://github.com/biopolyhedron/rime-uyghur
+url_to_file: /archive/master.zip
+---
+uyghur:
+  type: basic
   display_name: 維吾爾語
-  
-  dict:
+  files:
     - uyghur.dict.yaml
+    - uyghur.schema.yaml
 
-
-provides:
-  uyghur:
-    display_name: 維吾爾語
-    files:
-      - uyghur.schema.yaml
