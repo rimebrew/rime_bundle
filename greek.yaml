@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-greek
 url_to_file: /archive/master.zip
 
 provides:
-  - greek:
+  greek:
     type: basic
     display_name: 希臘文
     description: Default

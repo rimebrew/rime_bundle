@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-burmese
 url_to_file: /archive/master.zip
 
 provides:
-  - burmese:
+  burmese:
     type: basic
     display_name: 緬甸文
     description: Default

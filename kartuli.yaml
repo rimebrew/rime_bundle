@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-kartuli
 url_to_file: /archive/master.zip
 
 provides:
-  - kartuli:
+  kartuli:
     type: basic
     display_name: 格魯吉亞字母
     description: Default

@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-tibetan
 url_to_file: /archive/master.zip
 
 provides:
-  - tibetan:
+  tibetan:
     type: basic
     display_name: 藏文
     description: Default

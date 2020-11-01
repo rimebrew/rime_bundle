@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-tangut-poly4
 url_to_file: /archive/master.zip
 
 provides:
-  - tangut-poly4:
+  tangut-poly4:
     type: basic
     display_name: 西夏文【Poly四角】
     description: Default

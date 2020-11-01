@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-jap-poly
 url_to_file: /archive/master.zip
 
 provides:
-  - jap-poly:
+  jap-poly:
     type: basic
     display_name: poly日文
     description: Default

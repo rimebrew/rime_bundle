@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-mongol
 url_to_file: /archive/master.zip
 
 provides:
-  - mongol:
+  mongol:
     type: basic
     display_name: 蒙古文
     description: Default

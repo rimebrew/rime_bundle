@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-devanagari
 url_to_file: /archive/master.zip
 
 provides:
-  - devanagari:
+  devanagari:
     type: basic
     display_name: 天城體梵文
     description: Default

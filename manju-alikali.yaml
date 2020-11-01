@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-manju-alikali
 url_to_file: /archive/master.zip
 
 provides:
-  - manju-alikali:
+  manju-alikali:
     type: basic
     display_name: 滿語阿禮嘎禮轉寫輸入
     description: Default

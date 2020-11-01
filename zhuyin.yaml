@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-zhuyin
 url_to_file: /archive/master.zip
 
 provides:
-  - zhuyin:
+  zhuyin:
     type: basic
     display_name: 漢語注音字母
     description: Default

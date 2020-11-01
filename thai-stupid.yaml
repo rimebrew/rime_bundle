@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-thai-stupid
 url_to_file: /archive/master.zip
 
 provides:
-  - thai-stupid:
+  thai-stupid:
     type: basic
     display_name: 泰文（笨）
     description: Default

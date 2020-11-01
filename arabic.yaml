@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-arabic
 url_to_file: /archive/master.zip
 
 provides:
-  - arabic:
+  arabic:
     type: basic
     display_name: 阿拉伯字母國際鍵盤
     description: Default

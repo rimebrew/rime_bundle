@@ -5,7 +5,7 @@ url: https://github.com/biopolyhedron/rime-qyeyshanglr-hanja
 url_to_file: /archive/master.zip
 
 provides:
-  - qyeyshanglr-hanja:
+  qyeyshanglr-hanja:
     type: basic
     display_name: 옛한글・漢字
     description: Default
