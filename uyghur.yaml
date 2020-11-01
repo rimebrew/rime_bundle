@@ -1,15 +1,13 @@
+---
+id: uyghur
+display_name: 維吾爾語
+url: https://github.com/biopolyhedron/rime-uyghur
+url_to_file: /archive/master.zip
 
-repository:
-  url: https://github.com/biopolyhedron/rime-uyghur
-  url_to_file: /archive/master.zip
-  
-  id: uyghur
-  display_name: 維吾爾語
-  
-  dict:
-    - uyghur.dict.yaml
 provides:
   - uyghur:
+    type: basic
     display_name: 維吾爾語
     files:
       - uyghur.schema.yaml
+---

@@ -1,15 +1,13 @@
+---
+id: qyeyshanglr-hanja
+display_name: 옛한글・漢字
+url: https://github.com/biopolyhedron/rime-qyeyshanglr-hanja
+url_to_file: /archive/master.zip
 
-repository:
-  url: https://github.com/biopolyhedron/rime-qyeyshanglr-hanja
-  url_to_file: /archive/master.zip
-  
-  id: qyeyshanglr-hanja
-  display_name: 옛한글・漢字
-  
-  dict:
-    - qyeyshanglr-hanja.dict.yaml
 provides:
   - qyeyshanglr-hanja:
+    type: basic
     display_name: 옛한글・漢字
     files:
       - qyeyshanglr-hanja.schema.yaml
+---

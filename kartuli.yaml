@@ -1,15 +1,13 @@
+---
+id: kartuli
+display_name: 格魯吉亞字母
+url: https://github.com/biopolyhedron/rime-kartuli
+url_to_file: /archive/master.zip
 
-repository:
-  url: https://github.com/biopolyhedron/rime-kartuli
-  url_to_file: /archive/master.zip
-  
-  id: kartuli
-  display_name: 格魯吉亞字母
-  
-  dict:
-    - kartuli.dict.yaml
 provides:
   - kartuli:
+    type: basic
     display_name: 格魯吉亞字母
     files:
       - kartuli.schema.yaml
+---
