@@ -1,0 +1,47 @@
+---
+id: wubi86-jidian
+display_name: 86五笔极点
+url: https://github.com/KyleBing/rime-wubi86-jidian
+url_to_file: /archive/master.zip
+
+provides:
+  wubi86_jidian:
+    type: basic
+    display_name: 极点五笔-默认
+    description: Default
+    files:
+      - pinyin_simp.dict.yaml
+      - wubi86_jidian.dict.yaml
+      - rime.lua
+  wubi86_jidian_pinyin:
+    type: basic
+    display_name: 五笔拼音混输
+    description: Default
+    files:
+      - pinyin_simp.dict.yaml
+      - wubi86_jidian.dict.yaml
+      - rime.lua
+  wubi86_jidian_trad:
+    type: basic
+    display_name: 五笔简入繁出
+    description: Default
+    files:
+      - pinyin_simp.dict.yaml
+      - wubi86_jidian.dict.yaml
+      - rime.lua
+  wubi86_numbers:
+    type: basic
+    display_name: 极点五笔-数字输入
+    description: Default
+    files:
+      - numbers.schema.yaml  
+  wubi86_weasel:
+    type: basic
+    display_name: 极点五笔-小狼毫（for Windows）输入法候选词界面
+    description: Default
+    files:
+      - weasel.custom.yaml 
+
+
+
+---
