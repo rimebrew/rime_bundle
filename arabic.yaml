@@ -8,6 +8,9 @@ provides:
   - arabic:
     type: basic
     display_name: 阿拉伯字母國際鍵盤
+    description: Default
     files:
       - arabic.schema.yaml
+      - arabic.dict.yaml
+
 ---

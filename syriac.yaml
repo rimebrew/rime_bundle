@@ -8,6 +8,9 @@ provides:
   - syriac:
     type: basic
     display_name: 敘利亞字母
+    description: Default
     files:
       - syriac.schema.yaml
+      - syriac.dict.yaml
+
 ---

@@ -8,6 +8,9 @@ provides:
   - qyeyshanglr-hanja:
     type: basic
     display_name: 옛한글・漢字
+    description: Default
     files:
       - qyeyshanglr-hanja.schema.yaml
+      - qyeyshanglr-hanja.dict.yaml
+
 ---

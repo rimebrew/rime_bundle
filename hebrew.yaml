@@ -8,6 +8,9 @@ provides:
   - hebrew:
     type: basic
     display_name: 希伯來語轉寫輸入
+    description: Default
     files:
       - hebrew.schema.yaml
+      - hebrew.dict.yaml
+
 ---

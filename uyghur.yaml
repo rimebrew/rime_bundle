@@ -8,6 +8,9 @@ provides:
   - uyghur:
     type: basic
     display_name: 維吾爾語
+    description: Default
     files:
       - uyghur.schema.yaml
+      - uyghur.dict.yaml
+
 ---

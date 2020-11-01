@@ -8,6 +8,9 @@ provides:
   - zhuyin:
     type: basic
     display_name: 漢語注音字母
+    description: Default
     files:
       - zhuyin.schema.yaml
+      - zhuyin.dict.yaml
+
 ---

@@ -8,6 +8,9 @@ provides:
   - kartuli:
     type: basic
     display_name: 格魯吉亞字母
+    description: Default
     files:
       - kartuli.schema.yaml
+      - kartuli.dict.yaml
+
 ---

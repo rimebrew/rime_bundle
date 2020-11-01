@@ -8,6 +8,9 @@ provides:
   - manju-alikali:
     type: basic
     display_name: 滿語阿禮嘎禮轉寫輸入
+    description: Default
     files:
       - manju-alikali.schema.yaml
+      - manju-alikali.dict.yaml
+
 ---

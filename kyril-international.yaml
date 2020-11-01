@@ -8,6 +8,9 @@ provides:
   - kyril-international:
     type: basic
     display_name: 基利爾字母混合輸入
+    description: Default
     files:
       - kyril-international.schema.yaml
+      - kyril-international.dict.yaml
+
 ---

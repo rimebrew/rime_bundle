@@ -8,6 +8,9 @@ provides:
   - middle-chinese:
     type: basic
     display_name: 中古漢語（切韻音系）全拼及三拼
+    description: Default
     files:
       - middle-chinese.schema.yaml
+      - middle-chinese.dict.yaml
+
 ---

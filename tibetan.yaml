@@ -8,6 +8,9 @@ provides:
   - tibetan:
     type: basic
     display_name: 藏文
+    description: Default
     files:
       - tibetan.schema.yaml
+      - tibetan.dict.yaml
+
 ---

@@ -8,6 +8,9 @@ provides:
   - burmese:
     type: basic
     display_name: 緬甸文
+    description: Default
     files:
       - burmese.schema.yaml
+      - burmese.dict.yaml
+
 ---

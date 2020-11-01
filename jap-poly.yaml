@@ -8,6 +8,9 @@ provides:
   - jap-poly:
     type: basic
     display_name: poly日文
+    description: Default
     files:
       - jap-poly.schema.yaml
+      - jap-poly.dict.yaml
+
 ---

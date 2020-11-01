@@ -8,6 +8,9 @@ provides:
   - latin-international:
     type: basic
     display_name: 拉丁字母混合輸入
+    description: Default
     files:
       - latin-international.schema.yaml
+      - latin-international.dict.yaml
+
 ---

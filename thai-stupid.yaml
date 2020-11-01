@@ -8,6 +8,9 @@ provides:
   - thai-stupid:
     type: basic
     display_name: 泰文（笨）
+    description: Default
     files:
       - thai-stupid.schema.yaml
+      - thai-stupid.dict.yaml
+
 ---

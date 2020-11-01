@@ -8,6 +8,9 @@ provides:
   - tangut-poly4:
     type: basic
     display_name: 西夏文【Poly四角】
+    description: Default
     files:
       - tangut-poly4.schema.yaml
+      - tangut-poly4.dict.yaml
+
 ---

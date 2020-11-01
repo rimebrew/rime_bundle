@@ -8,6 +8,9 @@ provides:
   - greek:
     type: basic
     display_name: 希臘文
+    description: Default
     files:
       - greek.schema.yaml
+      - greek.dict.yaml
+
 ---

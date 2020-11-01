@@ -8,6 +8,9 @@ provides:
   - mongol:
     type: basic
     display_name: 蒙古文
+    description: Default
     files:
       - mongol.schema.yaml
+      - mongol.dict.yaml
+
 ---
