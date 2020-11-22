@@ -10,7 +10,7 @@ Bundles -> 集中仓库对各个 repo 的描述文件，很多输入法都有好
 
 :arrow_down:
 
-Schemas(Recipe) -> 用户的客户端从这里拿到 bundle，由客户端解析，然后按照描述从目标仓库下载到本地。解 bundle 后变成 schemas 就可以随便安装了。
+flavor ~~Schemas(Recipe)~~ -> 用户的客户端从这里拿到 bundle，由客户端解析，然后按照描述从目标仓库下载到本地。解 bundle 后变成 schemas 就可以随便安装了。
 
 
 ```
